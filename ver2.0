@@ -2,10 +2,11 @@
 // @name         furigana remover 2
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Remove furigana from itazuraneko online novels
+// @description  Remove furigana from itazuraneko/djt online novels
 // @author       EA2
 // @match        https://itazuranekoyomi1.neocities.org/library/shousetu/volume/*
 // @match        https://itazuranekoyomi2.neocities.org/library/shousetu/volume/*
+// @match        https://djt.netlify.com/b/*
 // @grant        none
 // @require      http://code.jquery.com/jquery-3.4.1.slim.min.js
 // ==/UserScript==
